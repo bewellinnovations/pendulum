@@ -38,7 +38,7 @@ time-machine = "^2.4.0"
 
 [tool.poetry.group.doc.dependencies]
 mkdocs = "^1.0"
-pymdown-extensions = "^6.0"
+pymdown-extensions = ">=6,<11"
 pygments = "^2.2"
 markdown-include = "^0.5.1"
 
